@@ -1,6 +1,6 @@
 # ai-pm-portfolio
 
-Case studies from AI/agentic products I've built end-to-end — architecture decisions, security practices, and deployment process, documented for anyone evaluating the technical judgment behind each build.
+Case studies from AI/agentic products I've built end-to-end - architecture decisions, security practices, and deployment process, documented for anyone evaluating the technical judgment behind each build.
 
 Each folder covers one project: what it does, the tech stack and why, the non-obvious decisions made during planning, and what broke on the way to production.
 

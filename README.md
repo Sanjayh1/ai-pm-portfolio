@@ -14,3 +14,5 @@ More projects added as they ship.
 ### About
 
 Senior PM/TPM background in AI/ML platforms — currently building hands-on with agentic coding tools (Claude Code) to pair product judgment with real, shipped implementation. Each case study here documents the actual build process: PRD → architecture decisions → implementation → security review → deployment, including the parts that didn't go smoothly the first time.
+
+Connect: [LinkedIn](https://www.linkedin.com/in/sanjayharkawat) · [Substack](https://substack.com/@sanjayharkawat)

@@ -7,7 +7,7 @@ Each folder covers one project: what it does, the tech stack and why, the non-ob
 Projects
 | Project	| Description	| Live	| Repo | SubStack |
 |---|---|---|---|---|
-| ContractIQ |	AI-powered contract review — upload an NDA/MSA, get key terms extracted with page-level citations and confidence scores, ask grounded follow-up questions	| [contractiq-sanjay.netlify.app](https://contractiq-sanjay.netlify.app/)	| dev-os | [ContractIQ](https://substack.com/home/post/p-208920918)
+| ContractIQ |	AI-powered contract review — upload an NDA/MSA, get key terms extracted with page-level citations and confidence scores, ask grounded follow-up questions	| [contractiq-sanjay.netlify.app](https://contractiq-sanjay.netlify.app/)	| [dev-os](https://github.com/Sanjayh1/dev-os) | [ContractIQ](https://substack.com/home/post/p-208920918)
 
 More projects added as they ship.
 

@@ -8,7 +8,7 @@ Each folder covers one project: what it does, the tech stack and why, the non-ob
 | Project	| Description	| Live	| Repo | SubStack | Tech Stack |
 |---|---|---|---|---|---|
 | ContractIQ |	AI-powered contract review — upload an NDA/MSA, get key terms extracted with page-level citations and confidence scores, ask grounded follow-up questions	| [contractiq-sanjay.netlify.app](https://contractiq-sanjay.netlify.app/)	| [dev-os](https://github.com/Sanjayh1/dev-os) | [ContractIQ](https://substack.com/home/post/p-208920918) | Next.js, Supabase, GPT-4o, Netlify |
-| Second Brain |	Build a Second Brain that runs like a real personal operating system with automated workflow	| 	| [dev-os](https://github.com/Sanjayh1/dev-os) |  | Composio, Snowflake, Obsidian, Apify, MCP Server, Claude Code |
+| Second Brain |	Build a Second Brain that runs like a real personal operating system with automated workflow	| 	| [dev-os](https://github.com/Sanjayh1/dev-os) |  | MCP Server, Snowflake, Obsidian, Composio, Apify, Claude Code |
 
 More projects added as they ship.
 

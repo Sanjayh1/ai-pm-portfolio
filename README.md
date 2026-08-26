@@ -9,7 +9,7 @@ Each folder covers one project: what it does, the tech stack and why, the non-ob
 |---|---|---|---|---|---|
 | ContractIQ |	AI-powered contract review — upload an NDA/MSA, get key terms extracted with page-level citations and confidence scores, ask grounded follow-up questions	| [contractiq-sanjay.netlify.app](https://contractiq-sanjay.netlify.app/)	| [dev-os](https://github.com/Sanjayh1/dev-os) | [ContractIQ](https://substack.com/home/post/p-208920918) | Next.js, Supabase, GPT-4o, Netlify |
 | Second Brain |	Build a Second Brain that runs like a real personal operating system with automated workflow	| 	| [dev-os](https://github.com/Sanjayh1/dev-os) |  | MCP Server, Snowflake, Obsidian, Composio, Apify, Claude Code |
-| Riskr |	Supply chain risk intelligence agent that monitors live weather, news, commodities, and currency signals to generate prioritized risk recommendations with agentic LLM reasoning	| [Loom](https://www.loom.com/share/97e6b5e7decb47ab88f5e1804127685b) |  | n8n, React, API Gateway, Claude Code Sonnet 5, GPT-4o mini, Vercel, n8n Evaluation Trigger |
+| Riskr |	Supply chain risk intelligence agent that monitors live weather, news, commodities, and currency signals to generate prioritized risk recommendations with agentic LLM reasoning	| [Loom](https://www.loom.com/share/97e6b5e7decb47ab88f5e1804127685b) |  | | n8n, React, API Gateway, Claude Code Sonnet 5, GPT-4o mini, Vercel, n8n Evaluation Trigger |
 
 More projects added as they ship.
 
